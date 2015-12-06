@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+// Aenderung
+
 /**
  * The text manager performs basic input/output console operations.
  * 
